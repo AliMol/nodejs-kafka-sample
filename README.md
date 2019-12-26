@@ -1,5 +1,7 @@
 # Nodejs Kafka
 
+## Objectives
+The purpose of this article is implement a basic event sourcing app, with basic fault tolerance and clear guarantees (at-least-once, timeouts). There are other ready to go solutions out there for example: node-cqrs-domain, nestjs-cqrs, wolkenkit, but i decided to write something quick from scratch for learning purposes.
 
 ## Setup
 
